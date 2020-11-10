@@ -1,2 +1,2 @@
-"# PostgreSQL-with-Python-and-psycopg2" 
-"# PostgreSQL-with-Python-and-psycopg2" 
+## Function
+	* Establish connection between a Python application and PostgreSQL.
