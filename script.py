@@ -7,3 +7,5 @@ conn = pg2.connect(database='db_name', user= 'user_name', password = secret)
 cur = conn.cursor()
 
 cur.execute('SQL SCRIPT')
+
+cur.close()
